@@ -1,0 +1,7 @@
+INSTALLATION Requires-
+
+1. Python Speech Recognition module
+	pip install speechrecognition
+
+2. PyAudio module (ONLY for User Input throught Microphone )
+	pip install pyaudio
